@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **HTML,CSS,JS**
 
-- 📫 How to reach me **sngdhmstr@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RRTXizJyllNEPuEqrNWJyFS_ad_85Pth/view](https://drive.google.com/file/d/1RRTXizJyllNEPuEqrNWJyFS_ad_85Pth/view)
 
 <h3 align="left">Connect with me:</h3>
