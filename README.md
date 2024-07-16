@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Snigdha Mistry</h1>
-<h3 align="center">Focused on advancing all skills and making cool stafs</h3>
+<h3 align="center">Focused on advancing all skills and making cool stuffs</h3>
 
-- 🌱 I’m currently learning **REACT Js,Node js**
+- 🌱 I’m currently learning **React.Js,Node.js**
 
 - 👨‍💻 All of my projects are available at [https://snigdhamistry.github.io/my-website/](https://snigdhamistry.github.io/my-website/)
 
