@@ -5,8 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://snigdhamistry.github.io/my-website/](https://snigdhamistry.github.io/my-website/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RRTXizJyllNEPuEqrNWJyFS_ad_85Pth/view](https://drive.google.com/file/d/1RRTXizJyllNEPuEqrNWJyFS_ad_85Pth/view)
-
+- 📄 Know about my experiences (https://drive.google.com/file/d/1uHhj0Jt3tTmaP57XfTy8oLTMxnvI4U0d/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itzmesnigdha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmesnigdha" height="30" width="40" /></a>
