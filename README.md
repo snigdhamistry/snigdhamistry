@@ -44,3 +44,10 @@ Hi! I'm **Snigdha Mistry**, a BTech Computer Science student and a developer who
 </a>
 
 </p>
+
+<p align="center">
+
+  <a href="https://github.com/snigdhamistry">
+    ♥️ From Snigdha
+  </a>
+</p>
