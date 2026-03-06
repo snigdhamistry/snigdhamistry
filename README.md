@@ -1,1 +1,2 @@
-<img width="1700" height="460" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/e3683137-aff8-4280-b194-25150143f433" />
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/e3683137-aff8-4280-b194-25150143f433" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=530&color=F1FF09&center=true&vCenter=true&width=855&lines=Hello;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hola;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;Bonjour;Hallo;%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7" alt="Typing SVG" /></a>
