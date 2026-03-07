@@ -30,10 +30,13 @@ Tools & Technologies I Work With
 - **DevOps:** Docker, Nginx
 - **Cloud:** Google Cloud Platform , Vercel
 - **Tools:** Git & GitHub, VS Code, Linux
+
 <h2>
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Raising%20Hand.png" alt="Woman Raising Hand" width="35" height="35" />
 About Me
 </h2>
+
 Hi! I'm **Snigdha Mistry**, a BTech Computer Science student and a developer who enjoys the journey of constantly learning, building, and improving along the way...........
 
 - 🌐 Interested in **Full Stack Web Development and DevOps**
