@@ -38,6 +38,12 @@ Hi! I'm **Snigdha Mistry**, a BTech Computer Science student and a developer who
 
 - 🌐 Interested in **Full Stack Web Development and DevOps**
 - 🌱 Currently learning **React** and exploring **concepts of Backend Development and DevOps**
+
+<p align="center">
+  
+  ![snake gif](https://github.com/snigdhamistry/snigdhamistry/blob/output/github-snake-dark.svg)
+</p>
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
