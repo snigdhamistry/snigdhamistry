@@ -17,7 +17,11 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode&theme=dark"/>
 </p>
 
-## 🛠 Technologies I Use
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="30" height="30" />
+Tools & Technologies I Work With
+</h2>
+
 
 - **Languages:** JavaScript, C, C++
 - **Frontend:** React.js, Tailwind CSS, CSS3, HTML5
@@ -26,8 +30,10 @@
 - **DevOps:** Docker, Nginx
 - **Cloud:** Google Cloud Platform , Vercel
 - **Tools:** Git & GitHub, VS Code, Linux
-## 👩‍💻 About Me
-
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Raising%20Hand.png" alt="Woman Raising Hand" width="35" height="35" />
+About Me
+</h2>
 Hi! I'm **Snigdha Mistry**, a BTech Computer Science student and a developer who enjoys the journey of constantly learning, building, and improving along the way...........
 
 - 🌐 Interested in **Full Stack Web Development and DevOps**
