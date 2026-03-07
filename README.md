@@ -69,5 +69,5 @@ Hi! I'm **Snigdha Mistry**, a BTech Computer Science student and a developer who
 
 <p align="center">
 
-<img src="./assets/pacman.gif" alt="pacman" width="100%" height="100%" />
+<img src="./assets/pacman.gif" alt="pacman" width="100%" height="40" />
 </p>
