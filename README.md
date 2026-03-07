@@ -33,7 +33,7 @@ Tools & Technologies I Work With
 
 <h2>
 
-<img src="./assets/pikachu.gif" alt="pikachu" width="60" height="50" />
+<img src="./assets/pikachu.gif" alt="pikachu" width="50" height="50" />
 About Me
 </h2>
 
@@ -65,4 +65,9 @@ Hi! I'm **Snigdha Mistry**, a BTech Computer Science student and a developer who
   <a href="https://github.com/snigdhamistry">
     ♥️ From Snigdha
   </a>
+</p>
+
+<p align="center">
+
+<img src="./assets/pacman.gif" alt="pacman" width="100%" height="100%" />
 </p>
