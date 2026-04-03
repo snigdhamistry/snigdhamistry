@@ -14,7 +14,7 @@
 <h2 align="center">⚡ Frequently Used</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,html,css,git,github,vscode&theme=dark"/>
 </p>
 
 <h2>
